@@ -23,7 +23,8 @@ pip install -r requirements.txt
 ###  Input & Output
 
 **Input**  : A set of stego JPEG images
-**Output ** : A location map that indicates the embedding positions in the input images,
+
+**Output** : A location map that indicates the embedding positions in the input images,
 represented by a binary matrix with the same size as the input images
 
 ### Dataset
